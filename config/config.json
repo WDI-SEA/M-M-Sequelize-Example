@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "blog2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {"username": "root",
+    "database": "blog2_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {"username": "root",
+    "database": "blog2_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
